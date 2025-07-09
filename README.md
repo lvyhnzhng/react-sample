@@ -1,6 +1,6 @@
 # React-sample
 
--[github.io/react-sample](https://lvyhnzhng.github.io/react-sample)
+[github.io/react-sample](https://lvyhnzhng.github.io/react-sample)
 
 # Getting Started with Create React App
 
