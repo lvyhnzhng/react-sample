@@ -23,6 +23,7 @@ function App() {
     <div>
       <h1>My Custom React App</h1>
       <p>This is my updated content!</p>
+      <p>{msg}</p>
     </div>
   );
 }
